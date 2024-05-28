@@ -93,7 +93,7 @@ function App() {
             <AppBar position="static" color="primary">
               <Toolbar>
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                  CareConnect - Your Gateway to Health and Wellness
+                  CareConnect Melbourne - Your Gateway to Health and Wellness
                 </Typography>
                 {loggedIn && (
                   <IconButton color="inherit" onClick={handleLogout}>
